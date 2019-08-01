@@ -19,4 +19,4 @@ bot.on('message',msg=>{
         msg.reply('sorry i am not that advanced So Sorry!')
     }
 })
-bot.login(process.env.token);
+bot.login(process.env..token);
